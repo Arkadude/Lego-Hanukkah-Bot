@@ -13,6 +13,7 @@ The robot is simply scripted to follow the motions:
   4. Place the Shamash in the center candle slot.
   5. Return to initial position.
 I aligned all the candle positions preliminarily so it can succeed.
+
 The wooden extention the robot rests upon is an IKEA SIGFINN.
 
 
