@@ -3,7 +3,7 @@
 A Lego robot that lights Hanukkah candles in a Menorah. 
 Created by Arkady Axelrod, 2025.
 
-Youtube video URL: 
+Youtube video URL: https://youtu.be/9pM4npWZsUw
 
 The robot is simply scripted to follow the motions.
 I aligned all the candle positions preliminarily so it can succeed.
